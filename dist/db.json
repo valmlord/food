@@ -1,0 +1,62 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menu 'Fitness'",
+      "descr": "Menu 'Fitness' is a new approach to cooking: more fresh vegetables and fruits. For people who are interested in sports; active and healthy. This is a brand new product with best price and high quality!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Lenten Menu",
+      "descr": "Our special 'Lenten Menu' is a careful selection of ingredients: the complete absence of products of animal origin. Complete harmony with yourself and nature in every element! All will be Om!",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menu 'Premium'",
+      "descr": "Menu 'Premium' - we use not only beautiful packaging design, but also high-quality execution dishes. Red fish, seafood, fruits - a restaurant menu without going to a restaurant!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "svsdfsd",
+      "phone": "ew32423423",
+      "id": 1
+    },
+    {
+      "name": "wefwef",
+      "phone": "wevwewe",
+      "id": 2
+    },
+    {
+      "name": "Stepan",
+      "phone": "+79111780007",
+      "id": 3
+    },
+    {
+      "name": "Stepan",
+      "phone": "+79111780007",
+      "id": 4
+    },
+    {
+      "name": "wefwef",
+      "phone": "wevwewe",
+      "id": 5
+    },
+    {
+      "name": "Stepan",
+      "phone": "+79111780007",
+      "id": 6
+    },
+    {
+      "name": "Stepan",
+      "phone": "+79111780007",
+      "id": 7
+    }
+  ]
+}
